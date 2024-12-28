@@ -23,5 +23,5 @@ I did it with some guys I met in the bootcamp which I liked to work with! But no
 
 ## Purpose for this one?
 
-Yes, I hope to **finish it**, then to do a **web version** of it and then to **init it**!
+it was a project made for a jury in order to get a SwiftUi certification
 
